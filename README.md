@@ -103,7 +103,7 @@ Setting up fake notifaction bar:
 
 ![image](https://github.com/user-attachments/assets/179977d6-8d84-4a7b-bf32-c4d7fb1f1c23)
 
-The fake notifacation bar clicked:
+The fake notification bar clicked:
 
 ![image](https://github.com/user-attachments/assets/39449d46-049c-4501-b515-12bf737935b3)
 
