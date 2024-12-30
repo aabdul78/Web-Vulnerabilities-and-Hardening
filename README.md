@@ -112,7 +112,7 @@ Setting up fake Geolocation:
 ![image](https://github.com/user-attachments/assets/6f086a6f-df51-49f4-bf14-3c8512566b08)
 
 
-Outlining mitigation strategies agains this kind of attacks
+Outlining mitigation strategies agains this kind of attacks:
 
 It's important to keep your system up to date, but this is a given and wouldn't have protected you from the recent IE 0-day vulnerability.
 
